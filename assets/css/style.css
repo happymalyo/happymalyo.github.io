@@ -6,6 +6,10 @@
 	color: hsl(228, 45%, 44%);
 }
 
+header {
+  display: none;
+}
+
 body {
 	background: hsl(212, 45%, 89%);
 	display: flex;
