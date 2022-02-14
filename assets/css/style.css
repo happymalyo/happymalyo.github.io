@@ -6,6 +6,9 @@
 	color: hsl(228, 45%, 44%);
 }
 
+h1 a {
+   	display:none;
+}
 
 body {
 	background: hsl(212, 45%, 89%);
